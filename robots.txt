@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://citizenship.shareyourgroup.com/sitemap.xml
